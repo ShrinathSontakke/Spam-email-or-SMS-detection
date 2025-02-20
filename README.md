@@ -99,7 +99,3 @@ This indicates that the example message provided in the script is classified as 
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
